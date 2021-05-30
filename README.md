@@ -2,7 +2,7 @@
 
 I made this reusable component as one of the challenges in [devchallenges.io](https://devchallenges.io)
 
-The live version and documentation of this component can be found [here](https://button-component.netlify.app)
+The live version and documentation of this component can be found [here](https://button-component-kelvin.netlify.app)
 
 ### Dependencies
 
